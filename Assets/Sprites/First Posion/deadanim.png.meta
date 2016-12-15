@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 5a23d7a8f9842ab4cb5042d5dd53b711
+timeCreated: 1474586488
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: deadanim_0
+    21300002: deadanim_1
+    21300004: deadanim_3
+    21300006: deadanim_4
+    21300008: deadanim_5
+    21300010: deadanim_6
+    21300012: deadanim_7
+    21300014: deadanim_9
+    21300016: deadanim_10
+    21300018: deadanim_12
+    21300020: deadanim_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: deadanim_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 4
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 4
+        width: 87
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4
+        width: 77
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 4
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_6
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 4
+        width: 73
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 4
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_9
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 4
+        width: 51
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_10
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 4
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_12
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: deadanim_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

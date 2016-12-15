@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: d102fdaabbc33e643b91f45bd9876195
+timeCreated: 1473850049
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: suntokhul_0
+    21300002: suntokhul_1
+    21300004: suntokhul_2
+    21300006: suntokhul_3
+    21300008: suntokhul_4
+    21300010: suntokhul_5
+    21300012: suntokhul_6
+    21300014: suntokhul_7
+    21300016: suntokhul_8
+    21300018: suntokhul_9
+    21300020: suntokhul_10
+    21300022: suntokhul_11
+    21300024: suntokhul_12
+    21300026: suntokhul_13
+    21300028: suntokhul_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: suntokhul_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 9
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 9
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_5
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 9
+        width: 54
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_6
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 9
+        width: 57
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 9
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_8
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_9
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_12
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_13
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: suntokhul_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 9
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

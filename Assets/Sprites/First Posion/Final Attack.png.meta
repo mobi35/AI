@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2642723016618604caa4d5c1f0e9c971
+timeCreated: 1474447051
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Final Attack_0
+    21300002: Final Attack_1
+    21300004: Final Attack_2
+    21300006: Final Attack_3
+    21300008: Final Attack_4
+    21300010: Final Attack_5
+    21300012: Final Attack_6
+    21300014: Final Attack_7
+    21300016: Final Attack_8
+    21300018: Final Attack_9
+    21300020: Final Attack_10
+    21300022: Final Attack_11
+    21300024: Final Attack_12
+    21300026: Final Attack_13
+    21300028: Final Attack_14
+    21300030: Final Attack_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Final Attack_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 108
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 7
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 7
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 7
+        width: 151
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_6
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 7
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 7
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_9
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 7
+        width: 80
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_10
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 7
+        width: 141
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_11
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 7
+        width: 70
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_12
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 7
+        width: 84
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 7
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 7
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Final Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 7
+        width: 59
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

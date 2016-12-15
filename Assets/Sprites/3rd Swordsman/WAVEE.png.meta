@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: aab5e0e78e278a24888b4bd41e25d9cc
+timeCreated: 1475104111
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: WAVEE_0
+    21300002: WAVEE_1
+    21300004: WAVEE_2
+    21300006: WAVEE_3
+    21300008: WAVEE_4
+    21300010: WAVEE_5
+    21300012: WAVEE_6
+    21300014: WAVEE_7
+    21300016: WAVEE_8
+    21300018: WAVEE_9
+    21300020: WAVEE_10
+    21300022: WAVEE_11
+    21300024: WAVEE_12
+    21300026: WAVEE_13
+    21300028: WAVEE_14
+    21300030: WAVEE_15
+    21300032: WAVEE_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: WAVEE_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_4
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 7
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 7
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 7
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 7
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_8
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 7
+        width: 69
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_9
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 7
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_10
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 7
+        width: 48
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_11
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 7
+        width: 53
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_12
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 7
+        width: 50
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_13
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 7
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_14
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 7
+        width: 56
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_15
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 7
+        width: 49
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WAVEE_16
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 7
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

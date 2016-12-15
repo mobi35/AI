@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\AISCript\Enemy.cs">
+    <Files>
+      <File FileName="Assets\Player.cs" Line="59" Column="1" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\AISCript\EnemySight.cs" Line="1" Column="1" />
+      <File FileName="Assets\Character.cs" Line="54" Column="1" />
+      <File FileName="Assets\CharacterList.cs" Line="71" Column="2" />
+      <File FileName="Assets\EnemyList.cs" Line="46" Column="18" />
+      <File FileName="Assets\Scripts\IgnoreCollision.cs" Line="12" Column="3" />
+      <File FileName="Assets\AISCript\MeleeState.cs" Line="1" Column="1" />
+      <File FileName="Assets\AttackBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets\AISCript\Enemy.cs" Line="175" Column="14" />
+      <File FileName="Assets\Scripts\CharacterSelection.cs" Line="18" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

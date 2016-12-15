@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 61242c2285f6df047a8e792844441072
+timeCreated: 1474447480
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FinalThrow_0
+    21300002: FinalThrow_2
+    21300004: FinalThrow_3
+    21300006: FinalThrow_4
+    21300008: FinalThrow_5
+    21300010: FinalThrow_6
+    21300012: FinalThrow_7
+    21300014: FinalThrow_8
+    21300016: FinalThrow_9
+    21300018: FinalThrow_10
+    21300020: FinalThrow_11
+    21300022: FinalThrow_12
+    21300024: FinalThrow_16
+    21300026: FinalThrow_18
+    21300028: FinalThrow_19
+    21300030: FinalThrow_20
+    21300032: FinalThrow_21
+    21300034: FinalThrow_22
+    21300036: FinalThrow_27
+    21300038: FinalThrow_28
+    21300040: FinalThrow_30
+    21300042: FinalThrow_32
+    21300044: FinalThrow_35
+    21300046: FinalThrow_37
+    21300048: FinalThrow_38
+    21300050: FinalThrow_42
+    21300052: FinalThrow_43
+    21300054: FinalThrow_44
+    21300056: FinalThrow_45
+    21300058: FinalThrow_1
+    21300060: FinalThrow_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FinalThrow_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 143
+        width: 50
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 144
+        width: 40
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 51
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 143
+        width: 42
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_5
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 144
+        width: 47
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 142
+        width: 53
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_7
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 143
+        width: 49
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_8
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 142
+        width: 69
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 142
+        width: 79
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_10
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 145
+        width: 81
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_11
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 144
+        width: 128
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 144
+        width: 139
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_16
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 145
+        width: 155
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_18
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 145
+        width: 81
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_19
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 145
+        width: 64
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_20
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 145
+        width: 64
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_21
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 144
+        width: 42
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 132
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_27
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 153
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 143
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 0
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_32
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 149
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_35
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 0
+        width: 144
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_37
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 0
+        width: 144
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_38
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 0
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_42
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 147
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FinalThrow_43
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 145
+        width: 57
+        height: 120
+      alignment: 9
+      pivot: {x: .5, y: .379999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: 248a74416f415bb4284dd66d4517f5f4
+timeCreated: 1475104426
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: XDXDX_0
+    21300002: XDXDX_1
+    21300004: XDXDX_4
+    21300006: XDXDX_6
+    21300008: XDXDX_10
+    21300010: XDXDX_12
+    21300012: XDXDX_22
+    21300014: XDXDX_24
+    21300016: XDXDX_26
+    21300018: XDXDX_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: XDXDX_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 86
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_4
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 113
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 106
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_12
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 42
+        width: 96
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_22
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 15
+        width: 98
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_24
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 2
+        width: 111
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_26
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 111
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: XDXDX_28
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 4
+        width: 132
+        height: 64
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

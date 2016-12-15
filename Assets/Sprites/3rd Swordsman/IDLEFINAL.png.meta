@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: e94a00f827cd46d499978cf3048acde8
+timeCreated: 1475102848
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IDLEFINAL_0
+    21300002: IDLEFINAL_1
+    21300004: IDLEFINAL_2
+    21300006: IDLEFINAL_3
+    21300008: IDLEFINAL_4
+    21300010: IDLEFINAL_5
+    21300012: IDLEFINAL_6
+    21300014: IDLEFINAL_7
+    21300016: IDLEFINAL_8
+    21300018: IDLEFINAL_9
+    21300020: IDLEFINAL_10
+    21300022: IDLEFINAL_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: IDLEFINAL_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 0
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_3
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 81
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 78
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 77
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_8
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 73
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_9
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 0
+        width: 75
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_10
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 0
+        width: 82
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IDLEFINAL_11
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 0
+        width: 80
+        height: 89
+      alignment: 9
+      pivot: {x: .5, y: .589999974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

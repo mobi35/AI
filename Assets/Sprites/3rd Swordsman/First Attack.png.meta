@@ -1,0 +1,201 @@
+fileFormatVersion: 2
+guid: 475c064c7574a8940af2be06db15b060
+timeCreated: 1475103645
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: First Attack_0
+    21300002: First Attack_1
+    21300004: First Attack_4
+    21300006: First Attack_5
+    21300008: First Attack_6
+    21300010: First Attack_7
+    21300012: First Attack_8
+    21300014: First Attack_9
+    21300016: First Attack_10
+    21300018: First Attack_11
+    21300020: First Attack_12
+    21300022: First Attack_13
+    21300024: First Attack_14
+    21300026: First Attack_2
+    21300028: First Attack_3
+    21300030: First Attack_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: First Attack_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 93
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .689999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 110
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .649999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .649999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 12
+        width: 107
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .600000024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 11
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .629999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_7
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 11
+        width: 75
+        height: 91
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 12
+        width: 88
+        height: 110
+      alignment: 9
+      pivot: {x: .5, y: .349999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_9
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 8
+        width: 151
+        height: 117
+      alignment: 9
+      pivot: {x: .5, y: .419999987}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_10
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 7
+        width: 148
+        height: 118
+      alignment: 9
+      pivot: {x: .5, y: .449999988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 7
+        width: 101
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .639999986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 9
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 8
+        width: 93
+        height: 80
+      alignment: 9
+      pivot: {x: .5, y: .649999976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: First Attack_15
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 8
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
